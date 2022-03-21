@@ -17,13 +17,13 @@ const port = 3000;
 
 //configuring cors
 
-// const corsOptions = {
-// 	origin: 'https://rant.razzjava.repl.co',
-// }
+const corsOptions = {
+origin: 'https://rant.razzjava.repl.co',
+ }
 
 app.use(express.urlencoded({extended:true}))
 app.use(express.json())
-app.use(cors())
+app.use(cors(corsOptions))
 
 
 app.get('/', (req,res)=>{
