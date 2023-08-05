@@ -1,14 +1,13 @@
-# Rant Server
+# Rant Server - this server is no longer live and will be refactored soon
 
 ### Updates
-Please note this Application is now working, though there will be styling updates to follow on the [UI](https://rant.razzjava.repl.co/).
+Please note this Application is now working, though there will be styling updates to follow
 
 ### About this App
-In order to use this application, please click on the following link [Rant Application](https://replit.com/@Razzjava/rant?v=1). and press the run button, then visit the [website](https://rant.razzjava.repl.co/), where you can see the fully functional app, feel free to post a rant.
-There may be times that the server is not running, in that instace, please click the run button.
+updates to follow soon
 
 ### Server
-The server is built using express and REPL DB, this api is the backend of the rant application. the link can be found here [Rant Application](https://replit.com/@Razzjava/rant?v=1).
+The server is built using express and REPL DB, this api is the backend of the rant application. this will be refactored to use sqllite
 
 ### UI
 The UI is built using React js and Vite
